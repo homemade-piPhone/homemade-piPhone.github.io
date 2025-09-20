@@ -1,1 +1,1 @@
-# homemade-piPhone.github.io
+# Website for homemade piPhone project
